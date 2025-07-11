@@ -36,8 +36,9 @@ It was created to demonstrate full-stack .NET skills relevant to real-world QA/D
 
 ### Clone and Run
 ```bash
-git clone https://github.com/yourusername/NutriTrack.git
+git clone https://github.com/tom-robinsonuk/NutriTrack.git
 cd NutriTrack
 dotnet restore
 dotnet ef database update
 dotnet run
+Visit: https://localhost:5001 (or your configured URL)
