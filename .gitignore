@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/VSCode/VS/JetBrains/Resharper
+.vscode/
+.idea/
+*.DotSettings.user
+
+# ASP.NET Core secrets
+secrets.json
+
+# EF Core migrations (optional, if auto-generated)
+Migrations/
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
